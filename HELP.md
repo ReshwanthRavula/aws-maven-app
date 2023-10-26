@@ -1,4 +1,4 @@
-# Getting Started aws devops project 
+# Getting Started aws devops project session 9 
 
 ### Reference Documentation
 For further reference, please consider the following sections:
