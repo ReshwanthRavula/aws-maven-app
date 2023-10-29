@@ -1,4 +1,4 @@
-# Getting Started aws devops project session 9 offer python life 
+# Getting Started aws devops project session 9 offer python life by risheek
 
 ### Reference Documentation
 For further reference, please consider the following sections:
